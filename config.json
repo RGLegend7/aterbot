@@ -1,12 +1,13 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
+		"host": "RGLegend.aternos.me",
+		"port": "19323",
 		"username": "Please enter the bot's username you want"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
 	"logLevel": ["error", "log", "debug"],
+	
 	"action": {
 		"commands": ["forward", "back", "left", "right", "jump"],
 		"holdDuration": 5000,
